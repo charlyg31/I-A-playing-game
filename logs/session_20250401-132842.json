@@ -1,0 +1,240 @@
+[
+  {
+    "turn": 1,
+    "state_before": "wy rl\n-~ 7 |\nj-\n\u2014\nss ar\nuz.\n\u2019\n\u00ab\n7\n\n\u00a9 1996 kazuki takahashi",
+    "action": 3,
+    "reward": 1.0,
+    "state_after": "\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 2,
+    "state_before": "a yi:\n\n\u00a9 1996 kazuki takahashi",
+    "action": 12,
+    "reward": -0.1,
+    "state_after": "a yi:\n\n\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 3,
+    "state_before": "a yi:\n\n\u00a9 1996 kazuki takahashi",
+    "action": 7,
+    "reward": -0.1,
+    "state_after": "a yi:\n\n\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 4,
+    "state_before": "a yi:\n\n\u00a9 1996 kazuki takahashi",
+    "action": 13,
+    "reward": -0.1,
+    "state_after": "a yi:\n\n\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 5,
+    "state_before": "a yi:\n\n\u00a9 1996 kazuki takahashi",
+    "action": 4,
+    "reward": -0.1,
+    "state_after": "a yi:\n\n\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 6,
+    "state_before": "a yi:\n\n\u00a9 1996 kazuki takahashi",
+    "action": 5,
+    "reward": -0.1,
+    "state_after": "a yi:\n\n\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 7,
+    "state_before": "a yi:\n\n\u00a9 1996 kazuki takahashi",
+    "action": 8,
+    "reward": -0.1,
+    "state_after": "a yi:\n\n\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 8,
+    "state_before": "a yi:\n\n\u00a9 1996 kazuki takahashi",
+    "action": 2,
+    "reward": -0.1,
+    "state_after": "a yi:\n\n\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 9,
+    "state_before": "\u00a9 1996 kazuki takahashi",
+    "action": 7,
+    "reward": 1.0,
+    "state_after": "a yi:\n\n\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 10,
+    "state_before": "\u00a9 1996 kazuki takahashi",
+    "action": 7,
+    "reward": -0.1,
+    "state_after": "\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 11,
+    "state_before": "\u00a9 1996 kazuki takahashi",
+    "action": 7,
+    "reward": -0.1,
+    "state_after": "\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 12,
+    "state_before": "\u00a9 1996 kazuki takahashi",
+    "action": 7,
+    "reward": 1.0,
+    "state_after": ""
+  },
+  {
+    "turn": 13,
+    "state_before": "",
+    "action": 8,
+    "reward": -0.1,
+    "state_after": ""
+  },
+  {
+    "turn": 14,
+    "state_before": "",
+    "action": 3,
+    "reward": -0.1,
+    "state_after": ""
+  },
+  {
+    "turn": 15,
+    "state_before": "",
+    "action": 7,
+    "reward": -0.1,
+    "state_after": ""
+  },
+  {
+    "turn": 16,
+    "state_before": "",
+    "action": 5,
+    "reward": -0.1,
+    "state_after": ""
+  },
+  {
+    "turn": 17,
+    "state_before": "",
+    "action": 13,
+    "reward": -0.1,
+    "state_after": ""
+  },
+  {
+    "turn": 18,
+    "state_before": "cae wee.",
+    "action": 4,
+    "reward": 1.0,
+    "state_after": ""
+  },
+  {
+    "turn": 19,
+    "state_before": "",
+    "action": 14,
+    "reward": 1.0,
+    "state_after": "\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 20,
+    "state_before": "\u00a9 1996 kazuki takahashi",
+    "action": 7,
+    "reward": -0.1,
+    "state_after": "\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 21,
+    "state_before": "\u00a9 1996 kazuki takahashi",
+    "action": 7,
+    "reward": -0.1,
+    "state_after": "\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 22,
+    "state_before": "\u00a9 1996 kazuki takahashi",
+    "action": 3,
+    "reward": -0.1,
+    "state_after": "\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 23,
+    "state_before": "\u00a9 1996 kazuki takahashi",
+    "action": 7,
+    "reward": -0.1,
+    "state_after": "\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 24,
+    "state_before": "\u00a9 1996 kazuki takahashi",
+    "action": 7,
+    "reward": -0.1,
+    "state_after": "\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 25,
+    "state_before": "\u00a9 1996 kazuki takahashi",
+    "action": 7,
+    "reward": -0.1,
+    "state_after": "\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 26,
+    "state_before": "\u00a9 1996 kazuki takahashi",
+    "action": 7,
+    "reward": -0.1,
+    "state_after": "\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 27,
+    "state_before": "a yi:\n\n\u00a9 1996 kazuki takahashi",
+    "action": 6,
+    "reward": 1.0,
+    "state_after": "\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 28,
+    "state_before": "a yi:\n\n\u00a9 1996 kazuki takahashi",
+    "action": 6,
+    "reward": -0.1,
+    "state_after": "a yi:\n\n\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 29,
+    "state_before": "a yi:\n\n\u00a9 1996 kazuki takahashi",
+    "action": 6,
+    "reward": -0.1,
+    "state_after": "a yi:\n\n\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 30,
+    "state_before": "a yi:\n\n\u00a9 1996 kazuki takahashi",
+    "action": 6,
+    "reward": -0.1,
+    "state_after": "a yi:\n\n\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 31,
+    "state_before": "a yi:\n\n\u00a9 1996 kazuki takahashi",
+    "action": 13,
+    "reward": -0.1,
+    "state_after": "a yi:\n\n\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 32,
+    "state_before": "a yi:\n\n\u00a9 1996 kazuki takahashi",
+    "action": 6,
+    "reward": -0.1,
+    "state_after": "a yi:\n\n\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 33,
+    "state_before": "a yi:\n\n\u00a9 1996 kazuki takahashi",
+    "action": 7,
+    "reward": -0.1,
+    "state_after": "a yi:\n\n\u00a9 1996 kazuki takahashi"
+  },
+  {
+    "turn": 34,
+    "state_before": "a yi:\n\n\u00a9 1996 kazuki takahashi",
+    "action": 6,
+    "reward": 1.0,
+    "state_after": "wy rl\n-~ 7 |\nj-\n\u2014\nss ar\nuz.\n\u2019\n\u00ab\n7\n\n\u00a9 1996 kazuki takahashi"
+  }
+]
